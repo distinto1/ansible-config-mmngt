@@ -1,0 +1,8 @@
+[nfs]
+172.31.33.20 ansible_ssh_user='ec2-user'
+
+[webservers]
+172.31.35.64 ansible_ssh_user='ec2-user'
+ 
+[lb]
+172.31.39.65 ansible_ssh_user='ubuntu'
