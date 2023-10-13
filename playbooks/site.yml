@@ -6,7 +6,6 @@
 #- hosts: uat-webservers
 #- import_playbook: ../static-assignments/uat-webservers.yml
 
-
 # - name: importing common file
 #   become: true
 #   import_playbook: ../static-assignments/common.yml
