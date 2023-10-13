@@ -47,5 +47,4 @@
     state: "{{ nginx_service_state }}"
     enabled: "{{ nginx_service_enabled }}"
   
-  enable_nginx_lb: true
-  load_balancer_is_required: true    
+     
