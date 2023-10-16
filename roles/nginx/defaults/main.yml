@@ -94,4 +94,4 @@ nginx_log_format: |-
   '"$http_user_agent" "$http_x_forwarded_for"'
 
 ansible_nginx_lb: false
-load_balancer_is_required: true
+load_balancer_is_required: false
